@@ -1,0 +1,35 @@
+
+body {
+    background-color:rgb(159, 155, 155);
+    
+}
+#para{
+    color:rgb(103, 38, 38);
+}
+#middle{
+    color: rgb(161, 154, 63);
+    font-size: 25px;
+}
+#hader{
+    text-align: center;
+    font-size: 40px;
+}
+.link{
+    text-align: center;
+    font-size:20px;
+    margin-bottom: 50px;
+}
+.name{
+    border: 2px solid black;
+    width: 30%;
+    display: inline-block;
+    margin: 1%;
+    text-align: center;
+    border-radius:7.5px;
+    color: white;
+    background-color: rgb(114, 116, 118);    
+}
+.finishing{
+    margin-left: 38%;
+    margin-top:100px
+}
